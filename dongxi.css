@@ -61,11 +61,11 @@ a.bg-danger:hover {
   background-color: #c9302c !important; }
 
 .bg-inverse {
-  background-color: #292b2c !important; }
+  background-color: #000 !important; }
 
 a.bg-inverse:focus,
 a.bg-inverse:hover {
-  background-color: #101112 !important; }
+  background-color: black !important; }
 
 .border-0 {
   border: 0 !important; }
