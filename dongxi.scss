@@ -25,6 +25,7 @@ $blue:   #0275d8 !default;
 $teal:   #5bc0de !default;
 $pink:   #ff5b77 !default;
 $purple: #613d7c !default;
+$gold:	 #AB9167 !default;
 
 // Grayscale and brand colors for use across Bootstrap.
 // Create grayscale
@@ -41,6 +42,8 @@ $brand-info:                $teal !default;
 $brand-warning:             $orange !default;
 $brand-danger:              $red !default;
 $brand-inverse:             $gray-dark !default;
+$brand-black:               $black !default;
+$brand-gold:                $gold !default;
 
 
 // Options
